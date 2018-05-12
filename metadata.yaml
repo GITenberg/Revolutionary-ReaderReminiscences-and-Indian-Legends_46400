@@ -1,0 +1,29 @@
+_repo: Revolutionary-ReaderReminiscences-and-Indian-Legends_46400
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46400-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foster, Sophie Lee
+    birthdate: 1867
+    deathdate: 1950
+    gutenberg_agent_id: '43757'
+    url: http://www.gutenberg.org/2009/agents/43757
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46400'
+  lccn: '14000043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Georgia -- History -- Revolution, 1775-1783'
+- !lcsh 'Indians of North America'
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anecdotes'
+title: 'Revolutionary Reader: Reminiscences and Indian Legends'
+url: http://www.gutenberg.org/ebooks/46400
